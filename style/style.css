@@ -2,7 +2,7 @@ html{
 	font-family: Helvetica, sans-serif;
 }
 .body1{
-	background-color: #555555;
+	background-color: #4fafc7;
 }
 .div1{
 	width: 940px;
@@ -95,7 +95,7 @@ p a{
 }
 .col-4 ul li{
 	margin-bottom: 5px;
-	color:#ff7f00;
+	color:#aed7d7;
 }
 .col-4 h4{
 	color: #555555;
